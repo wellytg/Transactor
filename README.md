@@ -17,4 +17,4 @@ Transactor v1 provides core calculations for:
 - **JavaScript (ES6+):** Recently modernized to externalize logic for better maintainability.
 
 ---
-*Developed by Wellington Tatenda Gwavava*
+*Developed by Wellington Gwavava*
